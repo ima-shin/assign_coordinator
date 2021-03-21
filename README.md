@@ -1,1 +1,11 @@
-# assign_coordinator
+# assign_coordinator  
+---
+
+**幹事決めレース**を行う、Windowsコマンドプロンプト用CLIアプリです  
+
+```python assign_coordinator.py 田中,佐藤,家永,山本,鈴木,遠藤```
+
+のようにファイル名の後にカンマ区切りでメンバーを指定すると、指定されたメンバーの中から幹事を決定します  
+
+
+Python3.6以上であれば動くと思います（検証はしていません）
